@@ -9,7 +9,8 @@ sharing: false
 
 Betz, R.M.; Walker, Ross C; "**Paramfit: Automated optimization of force field parameters for molecular dynamics
 simulations**," Journal of Computational Chemistry, **November 21, 2014**, _in press_  
-[Full text pdf](papers/betz_walker_paramfit.pdf)
+[Full text pdf](papers/2014_11_Betz_Walker_Paramfit_jcc23775.pdf)&nbsp;
+[Tutorial](http://ambermd.org/tutorials/advanced/tutorial23/index.html)
 
 D.A. Case, V. Babin, J.T. Berryman, R.M. Betz, Q. Cai, D.S. Cerutti, T.E. Cheatham, III, T.A. Darden, R.E. Duke, 
 H. Gohlke, A.W. Goetz, S. Gusarov, N. Homeyer, P. Janowski, J. Kaus, I. Kolossv&aacute;ry, A. Kovalenko, T.S. Lee, 
@@ -18,10 +19,10 @@ G. Seabra, C.L. Simmerling, W. Smith, J. Swails, R.C. Walker, J. Wang, R.M. Wolf
 "**AMBER 14**", University of California, San Francisco  
 [Website](http://ambermd.org/)&nbsp;
 
-Betz, R. M.; Walker, Ross C; "**From Punch Cards to Continuous Integration: Streamlining Development of a Multi-million Line Computational Chemistry Code**," Computing in Science and Engineering, **February 2, 2014**, _in press_
+Betz, R. M.; Walker, Ross C; "**From Punch Cards to Continuous Integration: Streamlining Development of a Multi-million Line Computational Chemistry Code**," Computing in Science and Engineering, **February 2, 2014**, 16(3), 10-17, DOI: [<u>10.1109/MCSE.2014.9</u>](http://dx.doi.org/10.1109/MCSE.2014.9)
 
-Betz, R.M.; DeBardeleben, N.A.; Walker, R.C.; "**An investigation of the effects of hard and soft errors on graphics processing unit-accelerated molecular dynamics simulations**," Concurrency and Computation: Practice and Experience, **March 3, 2014**, _in press_,  
-DOI: [_10.1002/cpe.3232_](http://dx.doi.org/10.1002/cpe.3232)&nbsp;
+Betz, R.M.; DeBardeleben, N.A.; Walker, R.C.; "**An investigation of the effects of hard and soft errors on graphics processing unit-accelerated molecular dynamics simulations**," Concurrency and Computation: Practice and Experience, **March 3, 2014**, 26(13), 2134--2140
+DOI: [<u>10.1002/cpe.3232</u>](http://dx.doi.org/10.1002/cpe.3232)&nbsp;
 [Full text pdf](papers/2014_03_ECC_AMBER_Paper_10.1002_cpe.3232.pdf)&nbsp;
 [Featured in HPCWire](http://www.hpcwire.com/2014/03/13/ecc-performance-price-worth-gpus)
 
