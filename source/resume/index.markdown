@@ -22,7 +22,7 @@ Graduate-level computational chemistry, physical chemistry, and numerical method
 
 ## Computer Skills
 
-**Languages: &nbsp;** C, C++, Perl, Bash, FORTRAN, MPI, OpenMP, CUDA, Java, mySQL, LaTeX
+**Languages: &nbsp;** C, C++, Perl, Python, Bash, FORTRAN, MPI, OpenMP, CUDA, Java, mySQL, LaTeX
 
 **Operating Systems: &nbsp;** Linux, Unix, Windows, Apple
 

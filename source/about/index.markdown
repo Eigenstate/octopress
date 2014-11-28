@@ -7,21 +7,21 @@ sharing: false
 
 ## About
 
-{% img right images/robin.png 300 Robin Betz %}
+{% img right ../images/robin.png 300 Robin Betz %}
 
 I am a graduate student in biophysics at **Stanford University.** Currently I am rotating with the Vijay Pande group.  
-I graduated from UC San Diego in March 2014 with a major in **Bioinformatics** and a **minor in Mathematics**. 
+I graduated from UC San Diego in March 2014 with a major in **Bioinformatics** and a minor in **Mathematics**. 
 
 I have done computational chemistry at the **San Diego Supercomputer Center** as part of the [**Walker Molecular Dynamics Lab**](http://www.wmd-lab.org) since 2011. I have also worked at **Pfizer**, the **National Oceanic and Atmospheric Administration** and the UCSD **Experimental Game Lab**.
 
-I am interested in the mechanics of life at the molecular level, and am especially fascinated by **protein dynamics** and interaction. I believe that today's computers are an extremely powerful tool that can give unique insights into complex biological systems. I use **molecular dynamics** simulations to examine how proteins behave,  and also help develop and **[improve parameters](projects.html)** used in simulations. I'm also very interested in ways of **mitigating and detecting error** in these simulations, especially with highly-parallel code.
+I am interested in the mechanics of life at the molecular level, and am especially fascinated by **protein dynamics** and interaction. I believe that today's computers are an extremely powerful tool that can give unique insights into complex biological systems. I use **molecular dynamics** simulations to examine how proteins behave,  and also help develop and improve parameters used in simulations. I'm also very interested in ways of **mitigating and detecting error** in these simulations, especially with highly-parallel code.
 
-I know **C++**, **C**, **Perl**, **Java**, **LaTeX**, and **BASH** very well. I am comfortable with FORTRAN, mySQL, and Python. I have enough knowledge of HTML, Javascript, and CSS to make this website. I like parallel programming with **MPI** and **OpenMP**, and I really like working with GPU-accelerated code written in **CUDA**.
+I know **C++**, **C**, **Perl**, **Python**, **FORTRAN**, **Java**, **LaTeX**, and **BASH** very well. I have enough knowledge of HTML, Javascript, and CSS/SASS to make this website. I like parallel programming with **MPI** and **OpenMP**, and I really like working with GPU-accelerated code written in **CUDA**.
 
-In my free time, I like to work on **open-source** projects and play around with Linux. I also hike, bicycle, and **dance** (all kinds) through classes and with friends. On weekends you can usually find me **reading**, sewing, or doing math outside.
+In my free time, I like to work on **open-source** projects and play around with Linux. I really like to **scuba dive** on the weekends in Monterey Bay. I also hike, bicycle, and dance (all kinds) through classes and with friends. On weekends you can usually find me underwater, reading, knitting, or doing math outside.
 
 ## Contact
-{% img images/email.png robin{at_symbol}robinbetz.com %}
+{% img ../images/email.png robin{at_symbol}robinbetz.com %}
 
 or
 
