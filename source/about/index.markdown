@@ -9,8 +9,8 @@ sharing: false
 
 {% img right ../images/robin.png 300 Robin Betz %}
 
-I am a graduate student in biophysics at **Stanford University.** Currently I am rotating with the Vijay Pande group.  
-I graduated from UC San Diego in March 2014 with a major in **Bioinformatics** and a minor in **Mathematics**. 
+I am a PhD candidate in biophysics at **Stanford University.** I am a member of the [Ron Dror group](http://cs.stanford.edu/people/rondror/).
+I graduated from UC San Diego in March 2014 with a major in **Bioinformatics** and a minor in **Mathematics**.
 
 I have done computational chemistry at the **San Diego Supercomputer Center** as part of the [**Walker Molecular Dynamics Lab**](http://www.wmd-lab.org) since 2011. I have also worked at **Pfizer**, the **National Oceanic and Atmospheric Administration** and the UCSD **Experimental Game Lab**.
 

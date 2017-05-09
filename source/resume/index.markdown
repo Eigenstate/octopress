@@ -7,12 +7,12 @@ sharing: false
 
 ## Education
 
-**Stanford University**  
-PhD Program in Biophysics  
+**Stanford University**
+PhD Candiate in Biophysics
 _in progress_
 
-**UC San Diego Class of 2014**  
-B.S. Bioinformatics, Minor in Mathematics 
+**UC San Diego Class of 2014**
+B.S. Bioinformatics, Minor in Mathematics
 
 Biochemistry, physical chemistry,
 molecular and cellular biology, organic chemistry, algorithms, statistics, bioinformatics, numerical analysis,
@@ -22,15 +22,13 @@ Graduate-level computational chemistry, physical chemistry, and numerical method
 
 ## Computer Skills
 
-**Languages: &nbsp;** C, C++, Perl, Python, Bash, FORTRAN, MPI, OpenMP, CUDA, Java, mySQL, LaTeX
+**Languages: &nbsp;** C, Python, C++, Perl, Bash, FORTRAN, MPI, OpenMP, CUDA, Java, mySQL, LaTeX
 
 **Operating Systems: &nbsp;** Linux, Unix, Windows, Apple
 
-**Linux Distributions: &nbsp;** Gentoo, Red Hat, Debian, OpenSUSE, Fedora, Ubuntu, Mint, any other apt, yum, or zypper based distro
-
 **Software: &nbsp;** AMBER, Maestro, Gaussian, GAMESS, ADF, Visual Studio, many others
 
-**Libraries: &nbsp;** netCDF, video4Linux, OpenMP, MPI
+**Libraries: &nbsp;** netCDF, video4Linux, OpenMP, MPI, VMD, CUDA
 
 ## Employment
 
@@ -45,14 +43,17 @@ _2010-2011 &nbsp;_**Calit2 &nbsp;**Programmer for Scalable City experimental gam
 _2010 &nbsp;_**National Oceanic and Atmospheric Administration &nbsp;**Created mathematical model of ocean temperatures to predict coral reef bleaching location and severity
 
 ## Teaching
+_2016 &nbsp;_**Robot Programming &nbsp;**_Stanford Pre-Collegiate Summer Institute &nbsp;_Teaching Assistant
 
-**Cell Biology &nbsp;**_2014 &nbsp;_Teaching Assistant
+_2015 &nbsp;_**Physical Biology of the Cell &nbsp;**_Stanford &nbsp;_Teaching Assistant
 
-[**Bioinformatics Algorithms Coursera**](https://www.coursera.org/course/bioinformatics) &nbsp;_2013 &nbsp;_Community Teaching Assistant
+_2015 &nbsp;_**Cell Biology &nbsp;**_UC San Diego &nbsp;_Teaching Assistant
 
-**Metabolic Biochemistry &nbsp;**_2013 &nbsp;_Teaching Assistant
+_2013 &nbsp;_[**Bioinformatics Algorithms Coursera**](https://www.coursera.org/course/bioinformatics) &nbsp;_Coursera &nbsp;_Community Teaching Assistant
 
-**Molecular Biology &nbsp;**_2012 &nbsp;_Teaching Assistant
+_2013 &nbsp;_**Metabolic Biochemistry &nbsp;**_UC San Diego &nbsp;_Teaching Assistant
+
+_2012 &nbsp;_**Molecular Biology &nbsp;**_UC San Diego &nbsp;_Teaching Assistant
 
 ## Awards
 
